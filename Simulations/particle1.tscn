@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://i76batv35psw"]
+
+[ext_resource type="Script" path="res://animate.gd" id="1_gfq5i"]
+[ext_resource type="Texture2D" uid="uid://budx0ie7sj8fm" path="res://cricle_6x6.png" id="1_jc5uu"]
+
+[node name="Sprite2D" type="Sprite2D"]
+texture = ExtResource("1_jc5uu")
+script = ExtResource("1_gfq5i")
