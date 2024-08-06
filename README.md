@@ -1,7 +1,7 @@
 # Particle animations
 ## Made these in Godot 4
-* spawning 100 particles and changing the aplha value from 1 to 0 
-* change color by changing the value withing the reset() method
+* spawning 100 particles and changing the alpha value from 1 to 0 
+* change color by changing the value withing the reset()
 ###  visuals are different as these are recorded
 https://github.com/user-attachments/assets/ca70eefb-4648-469f-9fcc-68849544831d
 
