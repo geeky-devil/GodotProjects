@@ -25,7 +25,7 @@ func reset():
 	global_position.y=pos.y
 	#self.modulate=Color(255+randi_range(-255,0),125+randi_range(-125,125),0)
 	#self.modulate=reds[randi_range(0,2)]
-	self.modulate=Color(255,255,255)
+	self.modulate=Color(255,255,255) #chage colors here
 	self.modulate.a=1
 	vSpeed=randf_range(1,3)
 	time=randf_range(1,3)
